@@ -1,0 +1,55 @@
+@CHARSET "UTF-8";
+
+.ui-widget, .ui.widget {
+	font-size: 90%;	 
+}
+
+.ui-panelmenu .ui-panelmenu-header a { 
+color: #fff;
+background-color: #0068B4; 
+}
+
+.ui-toolbar Main container{
+	color: #fff;
+background-color: #0068B4; 
+}
+
+.ui-button .ui-button-text{
+   font-size:14px;
+}
+
+#mainFooter{
+	font-family:Verdana,sans-serif;
+	color:grey;
+	font-size:10px;
+	font-weight: bolder;
+	
+}
+
+.editar{  
+    background-image: url("../imagens/editar.png") !important;  
+}  
+
+.excluir{  
+    background-image: url("../imagens/deletar.png") !important;  
+}  
+
+.produtos{  
+    background-image: url("../imagens/produto.png") !important;  
+}
+
+.add{  
+    background-image: url("../imagens/add.png") !important;  
+}
+
+.remove{  
+    background-image: url("../imagens/remove.png") !important;  
+}
+
+.finalizar{  
+    background-image: url("../imagens/finalizar.png") !important;  
+}
+
+.voltar{  
+    background-image: url("../imagens/voltar.png") !important;  
+}
